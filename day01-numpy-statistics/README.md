@@ -16,7 +16,7 @@ A random dataset statistics generator using NumPy.
 
 ## ▶️ How to Run
 ```bash
-python project.py
+python project.ipynb
 ```
 
 ## 📺 Tutorial
